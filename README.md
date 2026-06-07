@@ -33,8 +33,15 @@ Refer to the backend documentation in `backend/API_REFERENCE.md` and `backend/AU
 
 ## Deployment
 
+- Live Frontend: https://crypto-trade-lemon.vercel.app/
 - Frontend: deploy with Vercel or another Next.js-compatible platform
 - Backend: deploy separately on a Java-friendly hosting platform
+
+## Live Demo
+
+You can view the deployed frontend here:
+
+https://crypto-trade-lemon.vercel.app/
 
 ## Notes
 
